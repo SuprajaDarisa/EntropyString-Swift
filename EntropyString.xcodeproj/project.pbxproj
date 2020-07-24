@@ -397,12 +397,12 @@
 					};
 					E287AD911F0E9B9A00DE6DF5 = {
 						CreatedOnToolsVersion = 8.3.3;
-						LastSwiftMigration = "";
+						LastSwiftMigration = 1130;
 						ProvisioningStyle = Automatic;
 					};
 					E287AD9A1F0E9B9A00DE6DF5 = {
 						CreatedOnToolsVersion = 8.3.3;
-						LastSwiftMigration = "";
+						LastSwiftMigration = 1130;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -412,6 +412,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = E287AD881F0E9B9A00DE6DF5;
@@ -905,7 +906,7 @@
 				PRODUCT_NAME = EntropyString;
 				SKIP_INSTALL = YES;
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -926,7 +927,7 @@
 				PRODUCT_NAME = EntropyString;
 				SKIP_INSTALL = YES;
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -939,7 +940,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = io.knoxen.EntropyStringTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -952,7 +953,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = io.knoxen.EntropyStringTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
